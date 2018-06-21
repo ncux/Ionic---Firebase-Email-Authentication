@@ -11,8 +11,8 @@ log.txt
 *.sublime-workspace
 .vscode/
 npm-debug.log*
-app.firebase.config.ts
-node_modules
+src/app/app.firebase.config.ts
+
 
 .idea/
 .sourcemaps/
